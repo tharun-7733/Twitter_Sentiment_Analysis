@@ -1,0 +1,7 @@
+streamlit
+pickle
+re
+scikit-learn
+nltk.corpus
+nltk
+ntscraper
